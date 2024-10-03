@@ -1,93 +1,86 @@
-[![MasterHead](https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif)](https://rishavchanda.io)
+<!-- Banner image -->
+![Banner](https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif)
 
+<!-- Greetings -->
+<h1 align="center">Hello there 👋, I'm <a href="https://github.com/chathura500">Chathura Nimesh</a></h1>
+<h3 align="center">A Passionate Software Developer from Sri Lanka</h3>
 
-
-
-<h1 align="center">Hi 👋, I'm Chathura Nimesh</h1>
-<h3 align="center">Software Developer</h3>
-<div align="center">
-  <img src="https://tse1.mm.bing.net/th/id/OIP.qN5NhP6Ql7K7X-X_8kv5NgHaFj?rs=1&pid=ImgDetMain" alt="coding" width="400" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-</div>
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=chathura500&label=Profile%20views&color=0e75b6&style=flat" alt="chathura500" /> 
-</p>
+<!-- Typing animation -->
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=chathura500&theme=darkhub&no-frame=true&row=1&column=6&animate=true" alt="chathura500" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Full+Stack+Developer;Java+Enthusiast;Flutter+Learner;Always+Learning+New+Things">
   </a>
 </p>
-<div style="margin: 0 auto; display: inline-block; text-align: center;">
- <p>🌱 I’m currently learning <strong>Java (Spring Boot), Flutter</strong></p>
-   <p>💬 Ask me about <strong>Java</strong></p>
-   <p>📫 How to reach me <strong>chathura8nimesh28@gmail.com</strong></p>
-   <p>⚡ Fun fact <strong>I think I am a computer SCIENTIST</strong></p>
-</div>
 
+<!-- About me -->
+- 🔭 I’m currently working on **[Your Project Name](https://github.com/yourusername/yourproject)**
+- 🌱 I’m currently learning **Java (Spring Boot), Flutter**
+- 👯 I’m looking to collaborate on **Open Source Projects**
+- 🤔 I’m looking for help with **Advanced Java Concepts**
+- 💬 Ask me about **Java**
+- 📫 How to reach me **chathura8nimesh28@gmail.com**
+- ⚡ Fun fact **I think I am a computer SCIENTIST**
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/chathuranimesh28" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/chathuranimesh28" height="30" width="40" />
+<!-- Connect with me -->
+## 🌐 Connect with me
+<p align="left">
+  <a href="https://linkedin.com/in/chathuranimesh28" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:chathura8nimesh28@gmail.com">
+    <img align="center" src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" style="animation: bounce 2s infinite;">
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="animation: bounce 2s infinite;">
-  </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" style="animation: bounce 2s infinite;">
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" style="animation: bounce 2s infinite;">
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40" style="animation: bounce 2s infinite;">
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" style="animation: bounce 2s infinite;">
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="animation: bounce 2s infinite;">
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="animation: bounce 2s infinite;">
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="animation: bounce 2s infinite;">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="animation: bounce 2s infinite;">
-  </a>
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40" style="animation: bounce 2s infinite;">
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="animation: bounce 2s infinite;">
-  </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40" style="animation: bounce 2s infinite;">
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" style="animation: bounce 2s infinite;">
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="animation: bounce 2s infinite;">
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" style="animation: bounce 2s infinite;">
-  </a>
+
+<!-- Languages and Tools -->
+## 🛠️ Languages and Tools
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 </p>
+
+<!-- GitHub Stats -->
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chathura500&show_icons=true&locale=en&layout=compact&theme=radical" alt="chathura500" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chathura500&show_icons=true&theme=radical" alt="chathura500" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chathura500&show_icons=true&locale=en&theme=radical" alt="chathura500" />
-</p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chathura500&theme=radical" alt="chathura500" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chathura500&show_icons=true&locale=en&layout=compact&theme=radical" alt="chathura500" />
+</p>
+
+<!-- GitHub Trophies -->
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=chathura500&theme=radical&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" alt="chathura500" />
+</p>
+
+<!-- Visitor Count -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=chathura500&label=Profile%20views&color=0e75b6&style=flat" alt="chathura500" />
+</p>
+
+<!-- Quote -->
+## 💡 Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote">
+</p>
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
