@@ -1,5 +1,5 @@
 <!-- Banner image -->
-![Banner](https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif)
+![Banner]([https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif](https://th.bing.com/th/id/R.623d005277f4ea0ae29f2106dab01700?rik=1LnnbY5d3bNMzg&pid=ImgRaw&r=0))
 
 <!-- Greetings -->
 <h1 align="center">Hello there 👋, I'm <a href="https://github.com/chathura500">Chathura Nimesh</a></h1>
