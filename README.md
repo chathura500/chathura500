@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Banner Image](https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif)
+![Banner Image]([https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fabimation.com%2Fgifs&psig=AOvVaw1X0g0X9wSeMMQ9mvuP63RF&ust=1728014355962000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJj5pv-o8YgDFQAAAAAdAAAAABAS))
 
 <!-- Header -->
 <h1 align="center">Hey there! 👋 I'm <a href="https://github.com/chathura500" target="_blank">Chathura Nimesh</a></h1>
