@@ -2,7 +2,7 @@
 ![Banner Image](https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif)
 
 <!-- Header -->
-<h1 align="center">Hey there! 👋 I'm <a href="https://github.com/chathura500" target="_blank">Chathura Nimesh</a></h1>
+<h1 align="center">Hey there! 👋 I'm <a href="https://github.com/chathura500" target="_blank">A W C Nimesh</a></h1>
 <h3 align="center">A Passionate Software Developer from Sri Lanka 🇱🇰</h3>
 
 <!-- Animated SVG -->
